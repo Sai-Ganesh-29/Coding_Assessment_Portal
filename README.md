@@ -29,3 +29,47 @@ Ensure you have the following installed on your system:
    ```sh
    git clone https://github.com/your-repo/coding-assessment-portal.git
    cd coding-assessment-portal
+   ```
+
+2. **Install Dependencies**
+   ```sh
+   pip install -r requirements.txt
+   ```
+
+3. **Apply Migrations**
+   ```sh
+   python manage.py migrate
+   ```
+
+4. **Run the Server**
+   ```sh
+   python manage.py runserver
+   ```
+
+5. **Access the Portal**
+   Open your browser and go to:
+   ```
+   http://127.0.0.1:8000/
+   ```
+
+## Contribution
+
+If you'd like to contribute to the project:
+
+- Fork the repository
+- Create a feature branch (`git checkout -b feature-branch`)
+- Commit your changes (`git commit -m "Add new feature"`)
+- Push to your branch (`git push origin feature-branch`)
+- Open a pull request
+
+## License
+
+This project is licensed under the MIT License.
+
+## Contact
+
+For any queries or feedback, reach out to **[Sai Ganesh]** at **[saiganeshc29@gmail.com](mailto:saiganeshc29@gmail.com)**.
+
+---
+
+Enhance your coding assessments with accuracy and efficiency using **Coding Assessment Portal**!
