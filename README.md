@@ -27,7 +27,7 @@ Ensure you have the following installed on your system:
 
 1. **Clone the Repository**
    ```sh
-   git clone https://github.com/your-repo/coding-assessment-portal.git
+   git clone https://github.com/your-repo/coding-assessment-portal.git](https://github.com/Sai-Ganesh-29/Coding_Assessment_Portal.git
    cd coding-assessment-portal
    ```
 
